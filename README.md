@@ -47,7 +47,7 @@ Both the python files "python delete_disabled_rule.py" and "rule_writer.py" is n
     ###########################################################
     Processing, Please Wait
     >>>>>>>>
-    Retrived all rules from  OLY-PCI-SERVER-FW-ZoneFree-Before-Optima
+    Retrived all rules from  SERVER-FW-ZoneFree-Before-Optima
     ###########################################################
     Total number of rules in Access Control Policy  :  7965
     Number of rules which are disabled              :  154
