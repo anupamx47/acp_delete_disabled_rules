@@ -21,6 +21,9 @@ Both the python files "python delete_disabled_rule.py" and "rule_writer.py" is n
     ###########################################################
     #         anpavith              Cisco Systems India       #
     ###########################################################
+    Enter the device IP address  : 10.106.55.55
+    Enter the username of the FMC: api
+    Enter the password of the FMC:
     ###########################################################
     #             ACCESS CONTROL POLICY LIST                  #
     ###########################################################
