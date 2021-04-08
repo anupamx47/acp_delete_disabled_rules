@@ -1,5 +1,3 @@
-# acp_delete_disabled_rules
-
 **FMC ACP - Delete disabled rules and generate report script**
 
 A python based script to generate report if there are disabled rules FMC ACP and delete disabled rules in bulk
